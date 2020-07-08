@@ -1,15 +1,32 @@
 
 .container {
     padding-bottom: 50px;
+   
 }
 .container-top {
 padding-top: 10px;
 width: 80%;
 height: 250px;
+background-image: linear-gradient(rgba(163, 216, 183, 0.993) 60%,white 40%);
 
 }
 .col-md-5 {
+padding: 20px 20px;
+}
+h1,h6 {
 padding-left: 20px;
+font-weight: 500;
+
+}
+
+h1{
+    font-size: 50px;
+}
+.color{
+    color:rgb(29, 238, 29);
+}
+h6{
+    color:rgba(216, 60, 60, 0.856)
 }
 
 .navbar-nav{
