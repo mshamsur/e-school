@@ -94,6 +94,7 @@ p {
     background-image: linear-gradient(to bottom,rgb(83,209,83) 50%, rgb(83, 209, 83));
     height: 40px;
     width: 120px;
+    border: none;
 
 }
 .card{
@@ -104,4 +105,24 @@ p {
 }
 .card img{
     width: 75%;
+}
+.row img{
+    
+    width: 70%;
+    padding: 40px 50px;
+    height: 200px;
+    
+}
+ul:hover{
+    background-color: cornflowerblue;
+}
+footer{
+    text-align: center;
+    padding-top: 50px;
+}
+.container-color{
+    background-color:#282531;
+    color: white;
+    height: 280px;
+    padding-top: 40px;
 }
